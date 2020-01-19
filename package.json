@@ -4,9 +4,9 @@
   "description": "Full stack software engineer focused on making the world a better place through code.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/bchiang7/bchiang7.github.io"
+    "url": "https://github.com/whiz25/personal-portfolio.io"
   },
-  "homepage": "https://github.com/bchiang7/bchiang7.github.io",
+  "homepage": "https://github.com/whiz25/personal-portfolio.io",
   "main": "gulpfile.js",
   "scripts": {
     "start": "gulp serve",
