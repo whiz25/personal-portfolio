@@ -39,7 +39,7 @@ $ double click index.html
 
 Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/whiz25/personal-portfolio/issues).
 
-1. Fork it (https://github.com/whiz25/personal-portfolio/fork)
+1. Fork it [here](https://github.com/whiz25/personal-portfolio/fork)
 2. Create your working branch (git checkout -b [choose-a-name])
 3. Commit your changes (git commit -am 'what this commit will fix/add')
 4. Push to the branch (git push origin feature/[feature-name])
